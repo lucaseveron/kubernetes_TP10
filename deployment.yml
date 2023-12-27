@@ -4,9 +4,8 @@ metadata:
   name: appjava-secret
 type: Opaque
 data:
-  username: base64-encoded-username
-  password: base64-encoded-password
-
+  username: dHVfdXNlcm5hbWU=
+  password: dHVfcGFzc3dvcmQ=
 ---
 
 apiVersion: v1
